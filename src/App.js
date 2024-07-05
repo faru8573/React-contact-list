@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./pages/Home";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import ContactForm from "./components/ContactForm";
+
 import Navbar from "./components/Navbar";
 
 const App = () => {
